@@ -1,6 +1,6 @@
 {
-	"name": "firefly-bolg",
-	"compatibility_date": "2026-06-19",
+	"name": "firefly",
+	"compatibility_date": "2026-06-28",
 	"compatibility_flags": ["nodejs_compat"],
 	"assets": {
 		"directory": "./dist"
